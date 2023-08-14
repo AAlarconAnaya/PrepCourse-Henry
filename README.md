@@ -1,3 +1,3 @@
 #Proyecto de prueba.
 
-Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local.a
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local.
